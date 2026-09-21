@@ -1,0 +1,103 @@
+===================================================================
+                     ROADMAP DATA SCIENTIST
+          (Dari Nol Hingga Siap Kerja di Bidang Data)
+===================================================================
+
+[TAHAP 1: PEMROGRAMAN & MANAJEMEN DATA]
+Tujuan: Menguasai alat dasar untuk mengambil dan mengolah data.
+
+1. Python Dasar
+   - Sintaks dasar, tipe data, perulangan (loops), dan fungsi
+   - Struktur data: List, Dictionary, Set, Tuple
+   - Object-Oriented Programming (OOP) dasar
+   - Penggunaan Virtual Environment & VS Code/Jupyter Notebook
+
+2. SQL & Relational Database
+   - Query dasar: SELECT, WHERE, ORDER BY, GROUP BY, HAVING
+   - Penggabungan data: INNER JOIN, LEFT JOIN, Subqueries
+   - Fungsi agregasi: COUNT, SUM, AVG, MIN, MAX
+   - Integrasi database SQL dengan Python (SQLAlchemy / psycopg2)
+
+3. Pengolahan & Manipulasi Data (Python Libraries)
+   - NumPy: Komputasi array dan operasi matriks
+   - Pandas: Manipulasi DataFrame, filtering, handling missing values, 
+     dan pivoting
+
+-------------------------------------------------------------------
+
+[TAHAP 2: MATEMATIKA, STATISTIK, & EDA]
+Tujuan: Memahami statistik di balik data dan mengekstrak wawasan awal.
+
+1. Matematika & Statistik Terapan
+   - Statistik Deskriptif: Mean, median, modus, standar deviasi, kuartil
+   - Statistik Inferensial: Distribusi data, P-value, Confidence Interval
+   - Pengujian Hipotesis: A/B Testing, t-test, Chi-Square
+   - Aljabar Linear Dasar: Vektor, matriks, eigenvalues/eigenvectors
+   - Kalkulus Dasar: Turunan dan Partial Derivative (fondasi optimization)
+
+2. Exploratory Data Analysis (EDA) & Visualisasi
+   - Visualisasi Data: Matplotlib & Seaborn (Histogram, Scatter, Boxplot)
+   - Identifikasi pola, korelasi antar variabel, dan penanganan pencilan (outliers)
+   - Feature Engineering dasar: One-Hot Encoding, Scaling/Normalization
+
+-------------------------------------------------------------------
+
+[TAHAP 3: MACHINE LEARNING (SUPERVISED & UNSUPERVISED)]
+Tujuan: Membangun model prediktif berbasis data.
+
+1. Supervised Learning (Data Berlabel)
+   - Regresi: Linear Regression, Ridge, Lasso (metrik: MSE, RMSE, MAE, R2)
+   - Klasifikasi: Logistic Regression, Decision Trees, Random Forest, 
+     XGBoost, LightGBM (metrik: Accuracy, Precision, Recall, F1-Score, ROC-AUC)
+
+2. Unsupervised Learning (Data Tanpa Label)
+   - Clustering: K-Means, DBSCAN, Hierarchical Clustering
+   - Reduksi Dimensi: PCA (Principal Component Analysis), t-SNE
+
+3. Siklus Pengembangan Model (Scikit-Learn)
+   - Splitting data: Train-Test Split & Cross-Validation
+   - Hyperparameter Tuning: GridSearch, RandomSearch
+   - Penanganan Imbalanced Data: SMOTE, Undersampling
+
+-------------------------------------------------------------------
+
+[TAHAP 4: DEEP LEARNING & DOMAIN SPESIFIK (OPSIONAL/MENENGAH)]
+Tujuan: Menangani data tidak terstruktur (teks, gambar).
+
+1. Deep Learning Basics
+   - Arsitektur Neural Networks: Perceptron, Activation Functions, Backpropagation
+   - Framework: PyTorch atau TensorFlow/Keras
+
+2. Spesialisasi Domain (Pilih sesuai minat)
+   - Natural Language Processing (NLP): Text Processing, TF-IDF, Embeddings, Transformers
+   - Computer Vision: CNNs, Image Classification, Object Detection
+
+-------------------------------------------------------------------
+
+[TAHAP 5: KOMUNIKASI BISNIS & DEPLOYMENT DASAR]
+Tujuan: Menyampaikan wawasan ke pemangku kepentingan dan menyajikan model.
+
+1. Business Acumen & Storytelling
+   - Penerjemahan masalah bisnis menjadi problem statistik/ML
+   - Pembuatan Dashboard Interaktif: Tableau, Power BI, atau Streamlit
+   - Presentasi wawasan berbasis data ke pimpinan bisnis
+
+2. Model Deployment & Best Practices
+   - Version Control: Git & GitHub
+   - Menyajikan Model via REST API: FastAPI atau Flask
+   - Pembuatan Dashboard Demo interaktif untuk portofolio
+
+-------------------------------------------------------------------
+
+[TAHAP 6: PROYEK PORTOFOLIO & PERSIAPAN KARIR]
+Tujuan: Membukti kemampuan praktis kepada perekrut.
+
+1. Proyek Portofolio Wajib
+   - Proyek 1: Exploratory Data Analysis (EDA) & Dashboard Bisnis
+   - Proyek 2: End-to-End Machine Learning (Prediksi Churn / Deteksi Penipuan)
+   - Proyek 3: Proyek NLP atau Computer Vision interaktif
+
+2. Persiapan Kerja
+   - Latihan pemecahan kasus nyata (Case Studies & Take-home tests)
+   - Persiapan wawancara teknis (Live Coding Python & SQL)
+===================================================================
